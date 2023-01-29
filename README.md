@@ -1,1 +1,1 @@
-#フラスコ-mnist-app
+# mnist-app
